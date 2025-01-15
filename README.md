@@ -1,6 +1,6 @@
 # Simple Calculator
 
-A basic calculator built with **HTML**, **CSS**, and **JavaScript**. This project demonstrates front-end development skills by creating an interactive, responsive calculator that supports basic arithmetic operations.
+A basic calculator built with **HTML** and **CSS**. This project demonstrates front-end development skills by creating an interactive, responsive calculator that supports basic arithmetic operations.
 
 ## Features
 - **Basic Arithmetic Operations**: Addition, subtraction, multiplication, division.
